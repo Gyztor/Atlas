@@ -125,7 +125,7 @@
                                     </includes>
                                 </filter>
                                 <filter>
-                                    <artifact>com.github.retrooper:packetevents-spigot</artifact>
+                                    <artifact>com.github.retrooper.packetevents:spigot</artifact>
                                     <includes>
                                         <incude>**</incude>
                                     </includes>
@@ -196,6 +196,10 @@
             <id>jitpack.io</id>
             <url>https://jitpack.io</url>
         </repository>
+        <repository>
+            <id>codemc-snapshots</id>
+            <url>https://repo.codemc.io/repository/maven-snapshots/</url>
+        </repository>
     </repositories>
 
     <distributionManagement>
@@ -223,9 +227,9 @@
             <scope>compile</scope>
         </dependency>
         <dependency>
-            <groupId>com.github.retrooper</groupId>
-            <artifactId>packetevents-spigot</artifactId>
-            <version>2.0.0</version>
+            <groupId>com.github.retrooper.packetevents</groupId>
+            <artifactId>spigot</artifactId>
+            <version>2.0.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
