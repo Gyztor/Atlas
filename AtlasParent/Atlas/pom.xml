@@ -4,7 +4,7 @@
 
     <parent>
         <groupId>cc.funkemunky.utils</groupId>
-        <version>1.12.1</version>
+        <version>1.12.2</version>
         <artifactId>atlas-parent</artifactId>
         <relativePath>../pom.xml</relativePath>
     </parent>
@@ -12,8 +12,8 @@
     <artifactId>Atlas</artifactId>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/funkemunky/Atlas</developerConnection>
-        <tag>1.12.1</tag>
+        <developerConnection>scm:git:https://github.com/Gyztor/Atlas</developerConnection>
+        <tag>1.12.2</tag>
     </scm>
 
     <properties>
