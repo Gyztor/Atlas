@@ -12,7 +12,7 @@
     <artifactId>Atlas</artifactId>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/Gyztor/Atlas</developerConnection>
+        <developerConnection>scm:git:https://github.com/funkemunky/Atlas</developerConnection>
         <tag>1.12.2</tag>
     </scm>
 
